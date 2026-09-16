@@ -28,7 +28,7 @@ on:
 
       demc:
         description: "Integrate DontEatMyContent"
-        default: true
+        default: false
         required: false
         type: boolean
 
@@ -46,31 +46,31 @@ on:
 
       ryd:
         description: "Integrate Return YouTube Dislikes"
-        default: true
+        default: false
         required: false
         type: boolean
 
       ytabconfig:
         description: "Integrate YTABConfig"
-        default: true
+        default: false
         required: false
         type: boolean
 
       youquality:
         description: "Integrate YouQuality"
-        default: true
+        default: false
         required: false
         type: boolean
 
       youchoose:
         description: "Integrate YouChooseQuality"
-        default: true
+        default: false
         required: false
         type: boolean
 
       ytweaks:
         description: "Integrate YTweaks"
-        default: true
+        default: false
         required: false
         type: boolean
 
