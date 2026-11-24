@@ -34,7 +34,7 @@ on:
 
       ytlowcontrastmode:
         description: "Integrate YTLowContrastMode(iOS 15+)"
-        default: true
+        default: false
         required: false
         type: boolean
 
